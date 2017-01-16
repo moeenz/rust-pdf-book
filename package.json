@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/moeenz/rust-pdf-book/issues"
   },
+  "dependencies": {
+    "sync-request": "*",
+    "markdown-pdf": "*"
+  },
   "homepage": "https://github.com/moeenz/rust-pdf-book#readme"
 }
