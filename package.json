@@ -1,0 +1,24 @@
+{
+  "name": "rust-pdf-book",
+  "version": "1.0.0",
+  "description": "Rust book compiler to a PDF document.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moeenz/rust-pdf-book.git"
+  },
+  "keywords": [
+    "rust",
+    "pdf",
+    "book"
+  ],
+  "author": "Moeen Zamani <moeenzdev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moeenz/rust-pdf-book/issues"
+  },
+  "homepage": "https://github.com/moeenz/rust-pdf-book#readme"
+}
